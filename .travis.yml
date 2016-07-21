@@ -34,13 +34,13 @@ deploy:
   skip_cleanup: true
   provider: releases
   api_key:
-    secure: gxpvNgVqAiPSdHFZlbynqXGpVU1nWk2LGwbIXhoD8KkkhkdmAj2w0lmFra2ixZHi9/vJ39ONJRvtKIOsLELznZGdk8R9aIXFVuxZ6CpjH8ZxHIsAfp3FCFFVYADAutv9Hw+lNpOObvw7re+Y25GFS9PW3SnzmuMr+94dL1l7pigNLVxYwXJ/hw40vQwaRA05Fet1JL+cxh28agBX0wm9DiT+eR030kCWWA5gwwJOIn1ELyDdNRqd1bOV94J807SszWU9AHSXkMx4A1dmeIInSEEgCQXEs9kA+0MS0bXt64h67gcyvsXtrZwNEdv1ytPn7INfc1lsabN6Ez1hWatoofGXpWL6Rgh4RGWw6HCScB1KNCWKCWaQ7TmFEGMCPjPTP6WmqW9rzzw43GhA2WQ8mCeaUwmXbCPRZcjPsSmGdQ1HxWfANtY5gxYpFg5T26kdbVumsP3x7TrO4LkDQ1tLwj/Y0h9WFSqauzKWcIXeT9zOF6wIAX8lT9IpO3zc7np5v8wLNumH91rueO57jYmSyVezPyRbQQ9F7TyJd2GQFI/e/UpprXYaInPmJ9jx6uHjZV+k84FiIdjLL/sjXSI+Hkd3vSrxf3I1rY5csAL/GwnDHtpD3yVeetpKRtfDKGHXeD/ezUTDbihFy5iSsAIlwXh4nritUQRVyXDiBdEpJXY=
+    secure: sIbVbCbFXR0rVVcYX6GV8if0XWe0FhiEZzHs1HrfnPwzGL0Hw7Nr/jLSj7Bd9mX9RkiB3Gva8xuC4QUzJwG3zxA7nH+QIjBaT37QpxzoqRf/Ko0wA5yVIdJsT8d+PEcPJCwH4wY/QLuHSiQwWpzu0k37uwTtQu7983HoHU1D0LLWKBz9WhAgYcUzz/w3QqBaKeWJaNG3IulHYnWf3gJadN9Gfaep3S5aOd1KjAzfA/JQJ3J+VwjCss1hfrN1NQPAyH5B4xBhy5orhUgkVEuRJ2CrdA6n6cdHVP/1WKYW0oJZJOhWASWdueY3g2CRUOKMu4e8y6mqrCqoa7dG8axZsUUzEtWZM1Hin9ywS/rQYLgKyhGPReaRk92gdiJzgyRCWKI/dEEuB5U2gdCjZViS2I2F441WAShvXVhAr55m8RebfJSXcRR++kEZ1m0Kyqnnhe2nqAf4hokHvFcEpyN/9rNlP+2BDtNI0vX17KRhfN98wKWCIz44vJzNvcmXZwJny1w6cL+wkX/aEfkHT/GXPtTrMObKtHIJi7JtRUWn57EcVJNDE/kE4/4bUt+PsaNZk2vXta0iRbMoq3XphR9BQC/u501psLUljtGhFCLiAn5wRbPSthg8/eTTFsObQ06VgxZykARpJS5I/XMs6VtVvv+GbSBPilqLC8mU5pICzic=
   file:
     - book.epub
     - book.mobi
     - book.pdf
   "on":
-    repo: rdhyee/Aesop-s-Fables-a-new-translation_11339
+    repo: rdhyee/Aesop-s-Fables--a-new-translation_11339
 addons:
   apt:
     packages:
